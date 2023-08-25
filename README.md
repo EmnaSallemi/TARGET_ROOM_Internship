@@ -85,6 +85,8 @@ Run <code>ng serve</code> for a dev server. Navigate to http://localhost:4200/. 
 
 ### 💪Demo
 #### Admin Interface
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/53148314/131494211-4993966f-fe98-479b-992a-5779089bb9e4.png"><img src="https://user-images.githubusercontent.com/53148314/131494211-4993966f-fe98-479b-992a-5779089bb9e4.png" alt="Northwind Project Frontend Angular" style="max-width: 100%;"></a>
+
 1. login page
 ![Alt text](image.png)
 2. Choose interface <strong>(Sauf for coder)</strong>
